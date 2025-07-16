@@ -1,0 +1,4058 @@
+===================================
+INIZIO ESPERIMENTO
+Thread list: 1 2 4 8 16 32 48 64 96
+Ripetizioni: 2
+===================================
+-----------------------------------
+RUN 1 | Mode 0 | Threads: 1
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=1  iters=10001  314143.025 ms
+
+== Resource Usage ==
+
+real	5m15.801s
+user	5m15.215s
+sys	0m0.034s
+
+-----------------------------------
+RUN 1 | Mode 1 | Threads: 1
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=1  iters=10001  341830.623 ms
+
+== Resource Usage ==
+
+real	5m42.209s
+user	5m41.592s
+sys	0m0.034s
+
+
+-----------------------------------
+RUN 2 | Mode 0 | Threads: 1
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=1  iters=10001  312617.733 ms
+
+== Resource Usage ==
+
+real	5m11.083s
+user	5m10.503s
+sys	0m0.037s
+
+-----------------------------------
+RUN 2 | Mode 1 | Threads: 1
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=1  iters=10001  341753.747 ms
+
+== Resource Usage ==
+
+real	5m42.145s
+user	5m41.518s
+sys	0m0.030s
+
+
+-----------------------------------
+RUN 1 | Mode 0 | Threads: 2
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=2  iters=10001  157420.224 ms
+
+== Resource Usage ==
+
+real	2m37.723s
+user	5m14.632s
+sys	0m0.041s
+
+-----------------------------------
+RUN 1 | Mode 1 | Threads: 2
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=2  iters=10001  171426.216 ms
+
+== Resource Usage ==
+
+real	2m51.657s
+user	5m42.420s
+sys	0m0.039s
+
+
+-----------------------------------
+RUN 2 | Mode 0 | Threads: 2
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=2  iters=10001  158978.315 ms
+
+== Resource Usage ==
+
+real	2m39.053s
+user	5m17.304s
+sys	0m0.051s
+
+-----------------------------------
+RUN 2 | Mode 1 | Threads: 2
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=2  iters=10001  171682.641 ms
+
+== Resource Usage ==
+
+real	2m51.556s
+user	5m42.284s
+sys	0m0.042s
+
+
+-----------------------------------
+RUN 1 | Mode 0 | Threads: 4
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=4  iters=10001  81414.104 ms
+
+== Resource Usage ==
+
+real	1m21.150s
+user	5m23.776s
+sys	0m0.050s
+
+-----------------------------------
+RUN 1 | Mode 1 | Threads: 4
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=4  iters=10001  86224.444 ms
+
+== Resource Usage ==
+
+real	1m25.982s
+user	5m43.096s
+sys	0m0.044s
+
+
+-----------------------------------
+RUN 2 | Mode 0 | Threads: 4
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=4  iters=10001  81609.195 ms
+
+== Resource Usage ==
+
+real	1m21.420s
+user	5m24.867s
+sys	0m0.043s
+
+-----------------------------------
+RUN 2 | Mode 1 | Threads: 4
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=4  iters=10001  86281.194 ms
+
+== Resource Usage ==
+
+real	1m27.515s
+user	5m49.159s
+sys	0m0.042s
+
+
+-----------------------------------
+RUN 1 | Mode 0 | Threads: 8
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=8  iters=10001  42491.684 ms
+
+== Resource Usage ==
+
+real	0m41.811s
+user	5m33.517s
+sys	0m0.056s
+
+-----------------------------------
+RUN 1 | Mode 1 | Threads: 8
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=8  iters=10001  43939.289 ms
+
+== Resource Usage ==
+
+real	0m44.290s
+user	5m53.280s
+sys	0m0.045s
+
+
+-----------------------------------
+RUN 2 | Mode 0 | Threads: 8
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=8  iters=10001  42351.343 ms
+
+== Resource Usage ==
+
+real	0m41.900s
+user	5m34.178s
+sys	0m0.054s
+
+-----------------------------------
+RUN 2 | Mode 1 | Threads: 8
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=8  iters=10001  45159.966 ms
+
+== Resource Usage ==
+
+real	0m44.403s
+user	5m54.194s
+sys	0m0.070s
+
+
+-----------------------------------
+RUN 1 | Mode 0 | Threads: 16
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=16  iters=10001  21455.271 ms
+
+== Resource Usage ==
+
+real	0m21.433s
+user	5m41.600s
+sys	0m0.074s
+
+-----------------------------------
+RUN 1 | Mode 1 | Threads: 16
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=16  iters=10001  22677.730 ms
+
+== Resource Usage ==
+
+real	0m22.864s
+user	6m4.552s
+sys	0m0.037s
+
+
+-----------------------------------
+RUN 2 | Mode 0 | Threads: 16
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=16  iters=10001  21295.891 ms
+
+== Resource Usage ==
+
+real	0m21.415s
+user	5m41.316s
+sys	0m0.060s
+
+-----------------------------------
+RUN 2 | Mode 1 | Threads: 16
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=16  iters=10001  22893.739 ms
+
+== Resource Usage ==
+
+real	0m22.664s
+user	6m1.246s
+sys	0m0.074s
+
+
+-----------------------------------
+RUN 1 | Mode 0 | Threads: 32
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=32  iters=10001  12188.598 ms
+
+== Resource Usage ==
+
+real	0m12.369s
+user	6m33.345s
+sys	0m0.096s
+
+-----------------------------------
+RUN 1 | Mode 1 | Threads: 32
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=32  iters=10001  13128.244 ms
+
+== Resource Usage ==
+
+real	0m13.104s
+user	6m56.837s
+sys	0m0.098s
+
+
+-----------------------------------
+RUN 2 | Mode 0 | Threads: 32
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=32  iters=10001  12270.870 ms
+
+== Resource Usage ==
+
+real	0m12.214s
+user	6m28.480s
+sys	0m0.096s
+
+-----------------------------------
+RUN 2 | Mode 1 | Threads: 32
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=32  iters=10001  13498.954 ms
+
+== Resource Usage ==
+
+real	0m13.414s
+user	7m6.903s
+sys	0m0.102s
+
+
+-----------------------------------
+RUN 1 | Mode 0 | Threads: 48
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=48  iters=10001  10190.127 ms
+
+== Resource Usage ==
+
+real	0m9.899s
+user	7m51.060s
+sys	0m0.125s
+
+-----------------------------------
+RUN 1 | Mode 1 | Threads: 48
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=48  iters=10001  10681.322 ms
+
+== Resource Usage ==
+
+real	0m10.622s
+user	8m25.574s
+sys	0m0.108s
+
+
+-----------------------------------
+RUN 2 | Mode 0 | Threads: 48
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=48  iters=10001  10042.515 ms
+
+== Resource Usage ==
+
+real	0m9.557s
+user	7m34.570s
+sys	0m0.119s
+
+-----------------------------------
+RUN 2 | Mode 1 | Threads: 48
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=48  iters=10001  10460.860 ms
+
+== Resource Usage ==
+
+real	0m10.147s
+user	8m3.013s
+sys	0m0.138s
+
+
+-----------------------------------
+RUN 1 | Mode 0 | Threads: 64
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=64  iters=10001  14399.249 ms
+
+== Resource Usage ==
+
+real	0m14.653s
+user	15m31.949s
+sys	0m0.121s
+
+-----------------------------------
+RUN 1 | Mode 1 | Threads: 64
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=64  iters=10001  15663.388 ms
+
+== Resource Usage ==
+
+real	0m14.889s
+user	15m47.138s
+sys	0m0.162s
+
+
+-----------------------------------
+RUN 2 | Mode 0 | Threads: 64
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=64  iters=10001  14447.985 ms
+
+== Resource Usage ==
+
+real	0m14.278s
+user	15m8.137s
+sys	0m0.202s
+
+-----------------------------------
+RUN 2 | Mode 1 | Threads: 64
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=64  iters=10001  15665.758 ms
+
+== Resource Usage ==
+
+real	0m15.196s
+user	16m6.679s
+sys	0m0.138s
+
+
+-----------------------------------
+RUN 1 | Mode 0 | Threads: 96
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=96  iters=10001  10534.570 ms
+
+== Resource Usage ==
+
+real	0m10.591s
+user	16m45.406s
+sys	0m0.279s
+
+-----------------------------------
+RUN 1 | Mode 1 | Threads: 96
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=96  iters=10001  10838.730 ms
+
+== Resource Usage ==
+
+real	0m11.055s
+user	17m29.758s
+sys	0m0.330s
+
+
+-----------------------------------
+RUN 2 | Mode 0 | Threads: 96
+-----------------------------------
+Iterazione 100 ΔT max = 0.284922
+Iterazione 200 ΔT max = 0.142217
+Iterazione 300 ΔT max = 0.094915
+Iterazione 400 ΔT max = 0.071137
+Iterazione 500 ΔT max = 0.056908
+Iterazione 600 ΔT max = 0.047427
+Iterazione 700 ΔT max = 0.040645
+Iterazione 800 ΔT max = 0.035543
+Iterazione 900 ΔT max = 0.031605
+Iterazione 1000 ΔT max = 0.028447
+Iterazione 1100 ΔT max = 0.025860
+Iterazione 1200 ΔT max = 0.023704
+Iterazione 1300 ΔT max = 0.021880
+Iterazione 1400 ΔT max = 0.020317
+Iterazione 1500 ΔT max = 0.018961
+Iterazione 1600 ΔT max = 0.017775
+Iterazione 1700 ΔT max = 0.016728
+Iterazione 1800 ΔT max = 0.015796
+Iterazione 1900 ΔT max = 0.014967
+Iterazione 2000 ΔT max = 0.014220
+Iterazione 2100 ΔT max = 0.013542
+Iterazione 2200 ΔT max = 0.012926
+Iterazione 2300 ΔT max = 0.012363
+Iterazione 2400 ΔT max = 0.011849
+Iterazione 2500 ΔT max = 0.011375
+Iterazione 2600 ΔT max = 0.010936
+Iterazione 2700 ΔT max = 0.010532
+Iterazione 2800 ΔT max = 0.010156
+Iterazione 2900 ΔT max = 0.009805
+Iterazione 3000 ΔT max = 0.009479
+Iterazione 3100 ΔT max = 0.009173
+Iterazione 3200 ΔT max = 0.008885
+Iterazione 3300 ΔT max = 0.008617
+Iterazione 3400 ΔT max = 0.008363
+Iterazione 3500 ΔT max = 0.008124
+Iterazione 3600 ΔT max = 0.007899
+Iterazione 3700 ΔT max = 0.007684
+Iterazione 3800 ΔT max = 0.007483
+Iterazione 3900 ΔT max = 0.007291
+Iterazione 4000 ΔT max = 0.007109
+Iterazione 4100 ΔT max = 0.006935
+Iterazione 4200 ΔT max = 0.006770
+Iterazione 4300 ΔT max = 0.006613
+Iterazione 4400 ΔT max = 0.006462
+Iterazione 4500 ΔT max = 0.006319
+Iterazione 4600 ΔT max = 0.006181
+Iterazione 4700 ΔT max = 0.006050
+Iterazione 4800 ΔT max = 0.005923
+Iterazione 4900 ΔT max = 0.005803
+Iterazione 5000 ΔT max = 0.005686
+Iterazione 5100 ΔT max = 0.005575
+Iterazione 5200 ΔT max = 0.005468
+Iterazione 5300 ΔT max = 0.005365
+Iterazione 5400 ΔT max = 0.005265
+Iterazione 5500 ΔT max = 0.005170
+Iterazione 5600 ΔT max = 0.005077
+Iterazione 5700 ΔT max = 0.004988
+Iterazione 5800 ΔT max = 0.004902
+Iterazione 5900 ΔT max = 0.004819
+Iterazione 6000 ΔT max = 0.004739
+Iterazione 6100 ΔT max = 0.004661
+Iterazione 6200 ΔT max = 0.004586
+Iterazione 6300 ΔT max = 0.004513
+Iterazione 6400 ΔT max = 0.004443
+Iterazione 6500 ΔT max = 0.004374
+Iterazione 6600 ΔT max = 0.004308
+Iterazione 6700 ΔT max = 0.004244
+Iterazione 6800 ΔT max = 0.004181
+Iterazione 6900 ΔT max = 0.004121
+Iterazione 7000 ΔT max = 0.004062
+Iterazione 7100 ΔT max = 0.004005
+Iterazione 7200 ΔT max = 0.003949
+Iterazione 7300 ΔT max = 0.003895
+Iterazione 7400 ΔT max = 0.003842
+Iterazione 7500 ΔT max = 0.003791
+Iterazione 7600 ΔT max = 0.003741
+Iterazione 7700 ΔT max = 0.003692
+Iterazione 7800 ΔT max = 0.003645
+Iterazione 7900 ΔT max = 0.003599
+Iterazione 8000 ΔT max = 0.003554
+Iterazione 8100 ΔT max = 0.003510
+Iterazione 8200 ΔT max = 0.003467
+Iterazione 8300 ΔT max = 0.003426
+Iterazione 8400 ΔT max = 0.003385
+Iterazione 8500 ΔT max = 0.003345
+Iterazione 8600 ΔT max = 0.003306
+Iterazione 8700 ΔT max = 0.003268
+Iterazione 8800 ΔT max = 0.003231
+Iterazione 8900 ΔT max = 0.003195
+Iterazione 9000 ΔT max = 0.003159
+Iterazione 9100 ΔT max = 0.003125
+Iterazione 9200 ΔT max = 0.003091
+Iterazione 9300 ΔT max = 0.003057
+Iterazione 9400 ΔT max = 0.003025
+Iterazione 9500 ΔT max = 0.002993
+Iterazione 9600 ΔT max = 0.002962
+Iterazione 9700 ΔT max = 0.002931
+Iterazione 9800 ΔT max = 0.002901
+Iterazione 9900 ΔT max = 0.002872
+Iterazione 10000 ΔT max = 0.002843
+
+Mode 0  N=4096  threads=96  iters=10001  10604.282 ms
+
+== Resource Usage ==
+
+real	0m10.868s
+user	17m11.987s
+sys	0m0.228s
+
+-----------------------------------
+RUN 2 | Mode 1 | Threads: 96
+-----------------------------------
+Iterazione 100 ΔT max = 1.416093
+Iterazione 200 ΔT max = 0.705425
+Iterazione 300 ΔT max = 0.469624
+Iterazione 400 ΔT max = 0.352608
+Iterazione 500 ΔT max = 0.282167
+Iterazione 600 ΔT max = 0.235072
+Iterazione 700 ΔT max = 0.201431
+Iterazione 800 ΔT max = 0.176231
+Iterazione 900 ΔT max = 0.156623
+Iterazione 1000 ΔT max = 0.140953
+Iterazione 1100 ΔT max = 0.128132
+Iterazione 1200 ΔT max = 0.117447
+Iterazione 1300 ΔT max = 0.108445
+Iterazione 1400 ΔT max = 0.100713
+Iterazione 1500 ΔT max = 0.093998
+Iterazione 1600 ΔT max = 0.088113
+Iterazione 1700 ΔT max = 0.082945
+Iterazione 1800 ΔT max = 0.078336
+Iterazione 1900 ΔT max = 0.074199
+Iterazione 2000 ΔT max = 0.070498
+Iterazione 2100 ΔT max = 0.067138
+Iterazione 2200 ΔT max = 0.064078
+Iterazione 2300 ΔT max = 0.061296
+Iterazione 2400 ΔT max = 0.058733
+Iterazione 2500 ΔT max = 0.056385
+Iterazione 2600 ΔT max = 0.054216
+Iterazione 2700 ΔT max = 0.052206
+Iterazione 2800 ΔT max = 0.050348
+Iterazione 2900 ΔT max = 0.048610
+Iterazione 3000 ΔT max = 0.046994
+Iterazione 3100 ΔT max = 0.045477
+Iterazione 3200 ΔT max = 0.044058
+Iterazione 3300 ΔT max = 0.042722
+Iterazione 3400 ΔT max = 0.041467
+Iterazione 3500 ΔT max = 0.040280
+Iterazione 3600 ΔT max = 0.039163
+Iterazione 3700 ΔT max = 0.038102
+Iterazione 3800 ΔT max = 0.037101
+Iterazione 3900 ΔT max = 0.036146
+Iterazione 4000 ΔT max = 0.035245
+Iterazione 4100 ΔT max = 0.034382
+Iterazione 4200 ΔT max = 0.033565
+Iterazione 4300 ΔT max = 0.032783
+Iterazione 4400 ΔT max = 0.032037
+Iterazione 4500 ΔT max = 0.031325
+Iterazione 4600 ΔT max = 0.030644
+Iterazione 4700 ΔT max = 0.029992
+Iterazione 4800 ΔT max = 0.029368
+Iterazione 4900 ΔT max = 0.028770
+Iterazione 5000 ΔT max = 0.028193
+Iterazione 5100 ΔT max = 0.027642
+Iterazione 5200 ΔT max = 0.027110
+Iterazione 5300 ΔT max = 0.026599
+Iterazione 5400 ΔT max = 0.026107
+Iterazione 5500 ΔT max = 0.025631
+Iterazione 5600 ΔT max = 0.025175
+Iterazione 5700 ΔT max = 0.024733
+Iterazione 5800 ΔT max = 0.024306
+Iterazione 5900 ΔT max = 0.023895
+Iterazione 6000 ΔT max = 0.023496
+Iterazione 6100 ΔT max = 0.023111
+Iterazione 6200 ΔT max = 0.022738
+Iterazione 6300 ΔT max = 0.022376
+Iterazione 6400 ΔT max = 0.022027
+Iterazione 6500 ΔT max = 0.021688
+Iterazione 6600 ΔT max = 0.021358
+Iterazione 6700 ΔT max = 0.021040
+Iterazione 6800 ΔT max = 0.020731
+Iterazione 6900 ΔT max = 0.020429
+Iterazione 7000 ΔT max = 0.020138
+Iterazione 7100 ΔT max = 0.019854
+Iterazione 7200 ΔT max = 0.019578
+Iterazione 7300 ΔT max = 0.019310
+Iterazione 7400 ΔT max = 0.019049
+Iterazione 7500 ΔT max = 0.018796
+Iterazione 7600 ΔT max = 0.018549
+Iterazione 7700 ΔT max = 0.018307
+Iterazione 7800 ΔT max = 0.018073
+Iterazione 7900 ΔT max = 0.017845
+Iterazione 8000 ΔT max = 0.017621
+Iterazione 8100 ΔT max = 0.017404
+Iterazione 8200 ΔT max = 0.017192
+Iterazione 8300 ΔT max = 0.016984
+Iterazione 8400 ΔT max = 0.016782
+Iterazione 8500 ΔT max = 0.016585
+Iterazione 8600 ΔT max = 0.016392
+Iterazione 8700 ΔT max = 0.016204
+Iterazione 8800 ΔT max = 0.016020
+Iterazione 8900 ΔT max = 0.015840
+Iterazione 9000 ΔT max = 0.015663
+Iterazione 9100 ΔT max = 0.015492
+Iterazione 9200 ΔT max = 0.015323
+Iterazione 9300 ΔT max = 0.015158
+Iterazione 9400 ΔT max = 0.014997
+Iterazione 9500 ΔT max = 0.014839
+Iterazione 9600 ΔT max = 0.014684
+Iterazione 9700 ΔT max = 0.014533
+Iterazione 9800 ΔT max = 0.014385
+Iterazione 9900 ΔT max = 0.014239
+Iterazione 10000 ΔT max = 0.014096
+
+Mode 1  N=4096  threads=96  iters=10001  11647.600 ms
+
+== Resource Usage ==
+
+real	0m10.985s
+user	17m22.804s
+sys	0m0.391s
+
+
+===================================
+ESPERIMENTO COMPLETATO!
+===================================
