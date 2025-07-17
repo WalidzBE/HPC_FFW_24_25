@@ -10,7 +10,7 @@ EXECUTABLE="$(basename "$CU_FILE" .cu)"
 
 # CU-file-specific output directory
 CU_OUTPUT_DIR="$BASE_OUTPUT_DIR/$EXECUTABLE"
-NSYS_DIR="$CU_OUTPUT_DIR/nsys_profiles"
+NSYS_DIR="$CU_OUTPUT_DIR"
 
 # Create output directories
 mkdir -p "$CU_OUTPUT_DIR"

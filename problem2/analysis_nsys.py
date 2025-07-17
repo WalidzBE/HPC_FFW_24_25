@@ -13,7 +13,7 @@ parser.add_argument('--experiment', choices=['basic', 'channel_thread', 'halo'],
 args = parser.parse_args()
 
 # Construct the results directory based on the experiment
-results_dir = f'output/performance/{args.experiment}/nsys_profiles/results'
+results_dir = f'output/performance/{args.experiment}/results'
 
 # Get all trace and mem files
 trace_files = sorted(glob.glob(os.path.join(results_dir, "*K_block_size*_gputrace.csv")))
