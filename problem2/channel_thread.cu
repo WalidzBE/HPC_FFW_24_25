@@ -98,8 +98,14 @@ __global__ void applyGaussianBlur(const uchar3 *input_image, uchar3 *output_imag
     }
 }
 
-
 /* --------------------------- Main Program --------------------------- */
+#define CUDA_CHECK(err) \
+    if (err != cudaSuccess) { \
+        std::cerr << "[CUDA ERROR] " << cudaGetErrorString(err) \
+                  << " at " << __FILE__ << ":" << __LINE__ << std::endl; \
+        exit(EXIT_FAILURE); \
+    }
+
 int main(int argc, char **argv)
 {
     // Check command line arguments
@@ -124,15 +130,18 @@ int main(int argc, char **argv)
 
     // Allocate GPU memory
     uchar3 *device_input_image, *device_output_image;
-    cudaMalloc(&device_input_image, image_height * memory_pitch);
-    cudaMalloc(&device_output_image, image_height * memory_pitch);
-    cudaMemcpy(device_input_image, input_image.ptr(), image_height * memory_pitch, cudaMemcpyHostToDevice);
+    CUDA_CHECK(cudaMalloc(&device_input_image, image_height * memory_pitch));
+    CUDA_CHECK(cudaMalloc(&device_output_image, image_height * memory_pitch));
+    CUDA_CHECK(cudaMemcpy(device_input_image, input_image.ptr(), image_height * memory_pitch, cudaMemcpyHostToDevice));
+
+    std::cout << "[DEBUG] Copied device data to GPU" << std::endl;
 
     // Setup CUDA grid and block dimensions
-    // 3 threads in z-dimension (one per channel)
     dim3 thread_block(BLOCK_SIZE, BLOCK_SIZE, 3);
     dim3 grid_dimensions((image_width + BLOCK_SIZE-1)/BLOCK_SIZE, (image_height + BLOCK_SIZE-1)/BLOCK_SIZE);
 
+    std::cout << "[DEBUG] Launching kernel with block (" << thread_block.x << ", " << thread_block.y
+              << ", " << thread_block.z << ") and grid (" << grid_dimensions.x << ", " << grid_dimensions.y << ")" << std::endl;
 
     cudaEvent_t start, stop;
     cudaEventCreate(&start);
@@ -144,10 +153,27 @@ int main(int argc, char **argv)
     applyGaussianBlur<<<grid_dimensions, thread_block>>>(device_input_image, device_output_image, 
                                                        image_width, image_height, memory_pitch, image_width);
 
+    // Check kernel launch error
+    cudaError_t err = cudaGetLastError();
+    if (err != cudaSuccess) {
+        std::cerr << "[LAUNCH ERROR] " << cudaGetErrorString(err) << std::endl;
+        exit(EXIT_FAILURE);
+    }
+
+    // Now check runtime errors
+    err = cudaDeviceSynchronize();
+    if (err != cudaSuccess) {
+        std::cerr << "[RUNTIME ERROR] " << cudaGetErrorString(err) << std::endl;
+        exit(EXIT_FAILURE);
+    }
+
+    std::cout << "[DEBUG] Kernel completed" << std::endl;
+
     // Copy result back to host and save
     cv::Mat output_image(input_image.size(), input_image.type());
-    cudaMemcpy(output_image.ptr(), device_output_image, image_height * memory_pitch, cudaMemcpyDeviceToHost);
-    
+    CUDA_CHECK(cudaMemcpy(output_image.ptr(), device_output_image, image_height * memory_pitch, cudaMemcpyDeviceToHost));
+
+    std::cout << "[DEBUG] Copied device data back to host" << std::endl;
 
     // Check output file extension before saving
     std::string out_file = argv[2];
@@ -171,7 +197,6 @@ int main(int argc, char **argv)
     cudaEventElapsedTime(&milliseconds, start, stop);
 
     printf("Block size: %d x %d | Time: %f ms\n", BLOCK_SIZE, BLOCK_SIZE, milliseconds);
-
 
     // Append to CSV
     FILE* f = fopen("results.csv", "a");

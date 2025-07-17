@@ -40,7 +40,7 @@ for image_path in "$INPUT_DIR"/*.jpg; do
     image_output_dir="$CU_OUTPUT_DIR/${filename%.*}"
     mkdir -p "$image_output_dir"
 
-    for block_size in 4 8 16 32 48 64 96; do
+    for block_size in 4 8 16 32; do
         echo -e "\nCompiling with BLOCK_SIZE=$block_size ..."
         nvcc -DBLOCK_SIZE=$block_size -O3 -std=c++17 -Xcompiler -fopenmp \
         -I/usr/include/opencv4 \

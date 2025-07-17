@@ -1,0 +1,2 @@
+Start (ns),Duration (ns),CorrId,GrdX,GrdY,GrdZ,BlkX,BlkY,BlkZ,Reg/Trd,StcSMem (MB),DymSMem (MB),Bytes (MB),Throughput (MBps),SrcMemKd,DstMemKd,Device,Ctx,Strm,Name
+788411392,19840352,106,None,None,None,None,None,None,None,None,None,"134,283","6714,163",Pageable,Device,Orin (0),1,7,[CUDA memcpy HtoD]
