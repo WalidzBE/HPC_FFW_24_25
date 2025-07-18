@@ -1,0 +1,4 @@
+Start (ns),Duration (ns),CorrId,GrdX,GrdY,GrdZ,BlkX,BlkY,BlkZ,Reg/Trd,StcSMem (MB),DymSMem (MB),Bytes (MB),Throughput (MBps),SrcMemKd,DstMemKd,Device,Ctx,Strm,Name
+3795688288,140515232,106,None,None,None,None,None,None,None,None,None,"958,169","6707,184",Pageable,Device,Orin (0),1,7,[CUDA memcpy HtoD]
+3937072960,221937216,110,1368,912,1,16,16,3,40,"0,002","0,000",None,,None,None,Orin (0),1,7,"applyGaussianBlur(const uchar3 *, uchar3 *, int, int, unsigned long, int)"
+4159834080,151752448,113,None,None,None,None,None,None,None,None,None,"958,169","5749,015",Device,Pageable,Orin (0),1,7,[CUDA memcpy DtoH]
