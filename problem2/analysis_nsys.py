@@ -8,8 +8,8 @@ import re
 
 # Argument parsing
 parser = argparse.ArgumentParser(description='Analyze NSYS GPU traces.')
-parser.add_argument('--experiment', choices=['basic', 'channel_thread', 'halo'], required=True,
-                    help='Experiment name: basic, channel_thread, or halo')
+parser.add_argument('--experiment', choices=[ 'channel_thread', 'halo'], required=True,
+                    help='Experiment name: channel_thread, or halo')
 args = parser.parse_args()
 
 # Construct the results directory based on the experiment

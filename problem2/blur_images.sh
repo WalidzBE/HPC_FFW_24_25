@@ -7,8 +7,8 @@ OUTPUT_DIR="$(pwd)/output"
 mkdir -p "$OUTPUT_DIR"
 
 
-CU_FILE="basic.cu"
-EXECUTABLE="basic"
+CU_FILE="halo.cu"
+EXECUTABLE="halo"
 
 echo "Compiling"
 nvcc -O3 -std=c++17 -Xcompiler -fopenmp \
